@@ -1,8 +1,10 @@
-## Hi there 👋
+
 
 <div align="center">
-  <img height="200" src="./GitHubBanner.png"  />
+  <img height="200" src="./GitHubBanner.png" height="60" width="100"  />
 </div>
+
+## Hi there 👋
 
 ###
 

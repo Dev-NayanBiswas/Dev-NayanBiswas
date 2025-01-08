@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Now I'm skilling up<br>
+<p align="left">Now I'm working on<br>
   <br>- Admin Management System.
   <br>- Exploring Framer motion.
   <br>-  Node, MongoDB aggregation.

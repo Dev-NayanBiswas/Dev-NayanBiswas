@@ -1,11 +1,5 @@
-
-
-<div>
-  <img height="200" src="./GitHubBanner.png" height="60"  />
-</div>
-
 <div align="center">
-  <img src="./GitHubBanner.png" alt="GitHub Banner" style="width: 110%; max-height: 400px;" />
+  <img src="./GitHubBanner.png" alt="GitHub Banner" style="width: 110%; max-height: 600px;" />
 </div>
 
 ## Hi there 👋

@@ -4,6 +4,10 @@
   <img height="200" src="./GitHubBanner.png" height="60"  />
 </div>
 
+<div align="center">
+  <img src="./GitHubBanner.png" alt="GitHub Banner" style="width: 100%; max-height: 300px;" />
+</div>
+
 ## Hi there 👋
 
 ###

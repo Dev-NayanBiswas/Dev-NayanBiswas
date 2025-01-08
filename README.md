@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="./GitHubBanner.png" alt="GitHub Banner" style="width: 100%; max-height: 300px;" />
+  <img src="./GitHubBanner.png" alt="GitHub Banner" style="width: 110%; max-height: 400px;" />
 </div>
 
 ## Hi there 👋

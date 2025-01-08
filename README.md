@@ -1,7 +1,7 @@
 
 
-<div align="center">
-  <img height="200" src="./GitHubBanner.png" height="60" width="100"  />
+<div>
+  <img height="200" src="./GitHubBanner.png" height="60"  />
 </div>
 
 ## Hi there 👋

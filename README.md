@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h6 align="left">I'm learning the MERN stack, and it's been a challenging but rewarding journey. I face issues every day, but I tackle them one by one, and I can see myself getting better as I go. It's exciting to see my skills improve and to build things I couldn't have imagined before. I'm determined to keep learning and growing in web development!</h6>
+<h6 align="left">✨ Creating bugs since June 2023, right now I'm learning the MERN stack, and it's been a challenging but rewarding journey. I face issues every day, but I tackle them one by one, and I can see myself getting better as I go. It's exciting to see my skills improve and to build things I couldn't have imagined before. I'm determined to keep learning and growing in web development!</h6>
 
 ###
 
@@ -22,7 +22,12 @@
 
 ###
 
-<p align="left">Now I'm exploring<br><br>- Admin Management System.<br>- Exploring Framer motion.<br>-  Node, MongoDB aggregation.<br>-The next Goal is to learn Nextjs and  SQL,<br>- Took the challenge to build up myself as a full-stack web developer by the end of 2025</p>
+<p align="left">Now I'm skilling up<br>
+  <br>- Admin Management System.
+  <br>- Exploring Framer motion.
+  <br>-  Node, MongoDB aggregation.
+  <br>-The next Goal is to learn Nextjs and  SQL,
+  <br>- Took the challenge to build up myself as a full-stack web developer by the end of 2025</p>
 
 ###
 
@@ -30,7 +35,7 @@
 
 <br clear="both">
 
-<h3 align="center">🛠 I am Working With</h3>
+<h3 align="center">I Code With</h3>
 
 ###
 

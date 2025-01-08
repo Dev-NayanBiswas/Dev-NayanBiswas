@@ -18,7 +18,9 @@
 
 ###
 
-<p align="left">I'm from....Chittagong Bangladesh<br><br>- 🔭 I’m working on MERN stack<br>- 📚 I'm currently learning Node, MongoDB aggregation & Motion</p>
+<p align="left">Now I'm exploring<br><br>- Admin Management System.<br>- Exploring Framer motion.<br>-  Node, MongoDB aggregation.<br>-The next Goal is to learn Nextjs and  SQL,<br>- Took the challenge to build up myself as a full-stack web developer by the end of 2025</p>
+
+###
 
 ###
 

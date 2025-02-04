@@ -6,7 +6,11 @@
   <img src="./GitHubBanner.png" alt="GitHub Banner" style="width: 110%; max-height: 600px;" />
 </div>
 
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nayan....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 ###
 

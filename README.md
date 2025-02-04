@@ -71,7 +71,11 @@
 
 ###
 
+<div align="center">
+
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Dev-NayanBiswas&theme=catppuccin-frappe&hide_border=true&mode=weekly&card_width=500&ring=18EFA8&border=18EFA8&stroke=18EFA8&fire=EEEF63&currStreakLabel=18EFA8&sideLabels=18EFA8&excludeDaysLabel=18EFA8&background=55%2C08523A%2C512E8F)](https://git.io/streak-stats)
+
+</div>
 
 ###
 <h3 align="left">Find me on</h3>

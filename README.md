@@ -71,11 +71,7 @@
 
 ###
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-NayanBiswas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-NayanBiswas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
- 
-</div>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Dev-NayanBiswas&theme=catppuccin-frappe&hide_border=true&mode=weekly&card_width=500&ring=18EFA8&border=18EFA8&stroke=18EFA8&fire=EEEF63&currStreakLabel=18EFA8&sideLabels=18EFA8&excludeDaysLabel=18EFA8&background=55%2C08523A%2C512E8F)](https://git.io/streak-stats)
 
 ###
 <h3 align="left">Find me on</h3>
